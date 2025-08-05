@@ -1,22 +1,22 @@
 {
-    "token": "bot_token",
+    "token": "token",
     "proxy": false,
     "nuke": {
         "channels_name": [
-            "x444 runs cord",
-            "hello there fucking faggo",
-            "github.com/notspeezy",
-            "beamed"
+            "L5mH is Here",
+            "H2ckeD B2y L5mH",
+            "تم المعلومات💻",
+            "H2cked B2y L5mH"
         ],
         "roles_name": [
-            "wizzed by x444",
-            "x444 owns u",
-            "x444 runs u"
+            "H2ckeD B2y L5mH",
+            "L5mH is Here",
+            "تم المعلومات💻"
         ],
         "messages_content": [
-            "@everyone https://github.com/notspeezy/x444-Nuker",
-            "@everyone x444 runs cord",
-            "@everyone x444 owns u"
+            "H2ckeD B2y L5mH . ` @everyone",
+            "H2ckeD B2y L5mH . ` @everyone",
+            "H2ckeD B2y L5mH . ` @everyone"
         ]
     }
 }
