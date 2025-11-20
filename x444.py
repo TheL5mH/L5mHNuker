@@ -321,7 +321,7 @@ class x444:
             self.menu()
             
         elif ans in ["4", "04"]:
-            type = input("{}({}x444{}) Channels Type ['t', 'v']{}:{} ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
+            type = input("{}({}GnTL{}) Channels Type ['t', 'v']{}:{} ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
             type = 2 if type == "v" else 0
             amount = int(input("{}({}x444{}) Amount{}:{} ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m")))
             self.channels.clear()
